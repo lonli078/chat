@@ -12,7 +12,6 @@ Usage of ./simple_server:
 
 ```
 
-#Client
 go build -o simple_client client/client.go
 ./simple_client
 ```
@@ -26,4 +25,6 @@ Usage of ./simple_client:
 
 ```
 example for send file:
-/send <filename>
+```
+ /send <filename>
+```
