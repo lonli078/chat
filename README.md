@@ -1,6 +1,7 @@
 Simple chat
 
 go build -o simple_server server/server.go
+
 ./simple_server
 
 ```
@@ -13,6 +14,7 @@ Usage of ./simple_server:
 ```
 
 go build -o simple_client client/client.go
+
 ./simple_client
 ```
 Usage of ./simple_client:
