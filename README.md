@@ -1,6 +1,5 @@
 Simple chat
 
-#Server
 go build -o simple_server server/server.go
 ./simple_server
 
